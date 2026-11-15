@@ -1,0 +1,11 @@
+{
+  "name": "propost",
+  "version": "1.0.0",
+  "description": "Draft, schedule and publish social posts in your own voice on 12 networks, and talk to your ProPost AI team.",
+  "mcpServers": {
+    "propost": {
+      "httpUrl": "https://www.propost-ai.com/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
